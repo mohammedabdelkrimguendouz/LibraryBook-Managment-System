@@ -1,0 +1,750 @@
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (08-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (09-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (11-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\PC0\Desktop\Basics\Library Book Managment System (12-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\My PC\Desktop\Basics\Library Book Managment System (13-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (15-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmAddEditAuthor.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmShowAuthorInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmListAuthors.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddEditBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmEditGenre.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmListGenres.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (19-08-2024)\Library Book Managment System (15-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmShowBookInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmAddEditAuthor.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmListAuthors.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmShowAuthorInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Book_Copies.ctrlListCopiesForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddEditBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmShowBookInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmEditGenre.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmListGenres.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlListAuthorsForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddBookCopy.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.frmAddAuthorForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmListBooks.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (20-08-2024)\Library Book Managment System (20-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmAddEditBorrowingRecord.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlListAuthorsForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.frmAddAuthorForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmAddEditAuthor.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmListAuthors.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmShowAuthorInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Book_Copies.ctrlListCopiesForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddBookCopy.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddEditBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmListBooks.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmShowBookInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmAddEditBorrowingRecord.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmEditGenre.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmListGenres.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.frmShowBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.ctrlBorrowingRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmShowBorrowinRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.Controls.ctrlFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.frmShowFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryFine.Fines.frmListFines.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (21-08-2024)\Library Book Managment System (21-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmListBorrowingRecords.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlListAuthorsForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.frmAddAuthorForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmAddEditAuthor.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmListAuthors.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmShowAuthorInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Book_Copies.ctrlListCopiesForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.frmShowBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddBookCopy.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddEditBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmListBooks.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmShowBookInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.ctrlBorrowingRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmListBorrowingRecords.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmShowBorrowinRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmAddEditBorrowingRecord.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.Controls.ctrlFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryFine.Fines.frmListFines.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.frmShowFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmEditGenre.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmListGenres.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.ctrlReservationCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmShowReservationInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmListReservations.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (22-08-2024)\Library Book Managment System (22-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmAddReservation.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe.config
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\EASendMail.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\Guna.UI2.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\RestSharp.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Buffers.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.CodeDom.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Memory.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Text.Json.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.dll
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook_Buisness.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\RestSharp.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Buffers.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.CodeDom.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Memory.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Text.Json.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\bin\Debug\LibraryBook_DataAccess.pdb
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlAuthorCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.ctrlListAuthorsForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.Controls.frmAddAuthorForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmAddEditAuthor.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmListAuthors.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Authors.frmShowAuthorInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Book_Copies.ctrlListCopiesForBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.ctrlBookCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.controls.frmShowBookCopyInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddBookCopy.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmAddEditBook.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmListBooks.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Books.frmShowBookInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.ctrlBorrowingRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmListBorrowingRecords.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Borrowing_Records.frmShowBorrowinRecordInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.ConfigurationSettings.frmConfigurationSettings.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Contact.frmSendEmail.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmAddEditBorrowingRecord.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.Controls.ctrlFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryFine.Fines.frmListFines.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Fines.frmShowFineInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmMain.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.frmTest.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmEditGenre.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Genres.frmListGenres.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.LogIn.frmLogIn.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.Controls.ctrlPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmListPayments.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Payments.frmShowPaymentInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.Controls.ctrlPersonCardInfoWithFilter.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmAddEditPerson.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmListPeople.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.People.frmShowPersonInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.ctrlReservationCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmAddReservation.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmListReservations.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Reservations.frmShowReservationInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.ctrlSubscriptionPeriodCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmAddEditSubscriptionPeriod.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmListSubscriptionPeriods.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.SubscriptionPeriods.frmShowSubscriptionPeriodInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.Controls.ctrlUserCardInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmAddEditUser.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmChangePassword.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmListUsers.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.Users.frmShowUserInfo.resources
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryB.00FB2517.Up2Date
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.exe
+C:\Users\DELL PRO\Pictures\Library Book Managment System (23-08-2024)\Library Book Managment System (23-08-2024)\LibraryBook\obj\Debug\LibraryBook.pdb
