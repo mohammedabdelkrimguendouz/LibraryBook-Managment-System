@@ -1,1 +1,1 @@
-"# LibraryBook-Managment-System" 
+A dynamic system designed for library management, focusing on the efficient tracking of books, users, and membership records. The system supports a wide range of functionalities including book borrowing, reservations, and fine management. Developed with C# and the .NET Framework, it uses SQL Server for database management and T-SQL for complex data retrieval. The user interface is created with Windows Forms, and ADO.NET is used to handle data operations, ensuring a streamlined and responsive experience for both library staff and patrons.
