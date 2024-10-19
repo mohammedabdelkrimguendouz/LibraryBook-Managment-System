@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Library Book Managment System (24-08-2024)\\Version Back-End Server Side.(.net Core)\\LibraryBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5489ACFF-12DE-4904-B0FB-40324F609B8F}|..\\LibraryBook_DataAccess\\LibraryBook_DataAccess.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\library book managment system (24-08-2024)\\version back-end server side.(.net core)\\librarybook_dataaccess\\bookcopydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5277309-859E-45BF-9774-05E0A747BA3D}|..\\LibraryBook_Buisness\\LibraryBook_Buisness.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\library book managment system (24-08-2024)\\version back-end server side.(.net core)\\librarybook_buisness\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +16,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCopy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Library Book Managment System (24-08-2024)\\Version Back-End Server Side.(.net Core)\\LibraryBook_Buisness\\BookCopy.cs",
+              "RelativeDocumentMoniker": "..\\LibraryBook_Buisness\\BookCopy.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Library Book Managment System (24-08-2024)\\Version Back-End Server Side.(.net Core)\\LibraryBook_Buisness\\BookCopy.cs",
+              "RelativeToolTip": "..\\LibraryBook_Buisness\\BookCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:06:26.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCopyData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Library Book Managment System (24-08-2024)\\Version Back-End Server Side.(.net Core)\\LibraryBook_DataAccess\\BookCopyData.cs",
+              "RelativeDocumentMoniker": "..\\LibraryBook_DataAccess\\BookCopyData.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\Library Book Managment System (24-08-2024)\\Version Back-End Server Side.(.net Core)\\LibraryBook_DataAccess\\BookCopyData.cs",
+              "RelativeToolTip": "..\\LibraryBook_DataAccess\\BookCopyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:05:50.636Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
